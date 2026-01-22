@@ -5,18 +5,18 @@ defaultAuthor: "Hugo Narrow"
 language: "en-US"
 shortName: "Hugo Narrow"  # PWA
 images:
-  - "/images/og-default.avif"
+  - "/labveilletech-pm/images/og-default.avif"
 
 # Favicon
 favicon:
-  svg: "/favicon.svg"  # SVG format favicon (recommended)
+  svg: "/labveilletech-pm/favicon.svg"  # SVG format favicon (recommended)
 
 # Author info
 author:
   name: "Hugo Narrow"
   title: "A Clean and Minimal Hugo Theme"
   description: "Focused on content and user experience."
-  avatar: "/images/avatar.svg"
+  avatar: "/labveilletech-pm/images/avatar.svg"
   social:
     - name: "GitHub"
       url: "https://github.com/username"
@@ -32,8 +32,8 @@ author:
 header:
   sticky: true  # Enable sticky navigation bar
   logo:
-    image: "/images/logo.svg"  # Logo path relative to static folder, leave empty to use site title first letter
-    link: "/"  # Click to home page
+    image: "/labveilletech-pm/images/logo.svg"  # Logo path relative to static folder, leave empty to use site title first letter
+    link: "/labveilletech-pm/"  # Click to home page
   # UI Components Control (header controls)
   showThemeSwitch: true      # Set to false to hide theme style switcher (palette icon)
   showDarkModeSwitch: true   # Set to false to hide dark mode switcher (sun/moon icon)
